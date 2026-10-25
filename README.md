@@ -6,7 +6,11 @@ Built with Python, [python-telegram-bot](https://python-telegram-bot.org/), and 
 
 ![Alert triggered](screenshots/04-alert-triggered.png)
 
-▶️ **[Watch the 55-second demo video](screenshots/demo.mp4)**
+
+
+https://github.com/user-attachments/assets/1864d24f-beb1-4ed1-be55-177b4840bb7a
+
+
 
 ---
 
