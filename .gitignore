@@ -1,0 +1,13 @@
+# Secrets - NEVER commit your bot token
+.env
+
+# Python virtual environment
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local database (contains users' alerts) and log file
+alerts.db
+bot.log
