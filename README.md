@@ -52,7 +52,7 @@ https://github.com/user-attachments/assets/1864d24f-beb1-4ed1-be55-177b4840bb7a
 ### 2. Install
 ```powershell
 git clone <your-repo-url>
-cd price-alert-bot
+cd telegram-price-alert-bot
 
 python -m venv .venv
 .\.venv\Scripts\activate
